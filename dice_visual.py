@@ -2,7 +2,7 @@ import pygal
 
 from die import Die
 
-#create a D6
+#create Two D6
 die_1 = Die()
 die_2 = Die()
 
