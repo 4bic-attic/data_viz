@@ -9,8 +9,8 @@ while True:
     rw.fill_walk()
 
     #set the size of the plotting window
-    plt.figure(figsize=(10, 6))
-
+    plt.figure(dpi=128, figsize=(10, 6))
+    
     #Plot points and show the plot
     point_numbers = list(range(rw.num_points))
     plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues,
