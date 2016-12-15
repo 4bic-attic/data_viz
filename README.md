@@ -27,4 +27,4 @@ Mapping abilities
 
 sample population map
 
-![alt tag]
+![alt tag](https://github.com/4bic-attic/data_viz/blob/data_viz/world_population.svg)
