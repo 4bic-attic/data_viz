@@ -27,4 +27,6 @@ Mapping abilities
 
 sample population map
 
-![alt tag](https://github.com/4bic-attic/data_viz/blob/data_viz/world_population.svg)
+![alt tag](https://github.com/4bic-attic/data_viz/blob/data_viz/images/world_map_by_population.png)
+
+Course work courtesy of [Python Crash Course](https://www.nostarch.com/pythoncrashcourse) by [@ehmatthes](https://github.com/ehmatthes)
