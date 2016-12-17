@@ -23,12 +23,12 @@ for repo_dict in repo_dicts:
     plot_dict = {
         'value': repo_dict['stargazers_count'],
         'label': repo_dict['description'],
+        'xlink': repo_dict['html_url'],
         }
     plot_dicts.append(plot_dict)
 
 #make visualizations
 my_style = LS('#333366', base_style=LCS)
-
 my_config = pygal.Config()
 my_config.x_label_rotation = 45
 my_config.show_legend = False
