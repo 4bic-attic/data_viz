@@ -1,4 +1,4 @@
-# data_viz
+# Data Visualization
 
 Work with Visual representations associated with data mining. 
 
@@ -9,7 +9,7 @@ Create  meaning to what would otherwise be individual data points.
     Simple line graph
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/data_viz/images/scatter_squares_with_color_map.png)
 
-Random points collected with start and ending points
+    Random points collected with start and ending points
 
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/data_viz/images/random_walk_with_5000_points.png)
 
