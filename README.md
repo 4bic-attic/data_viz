@@ -4,17 +4,17 @@ Exploring how to use APIs to write self-contained programs that automatically ga
 
 On this , I used the GitHub API to explore the most-starred Python projects on GitHub,
 
-_Sample Response of an API Response _
+__Sample API Response__
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/api/images/API%20Response.png)
 
-_Summarizing the Top Repositories_
+__Summary of Top Python Repositories__
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/api/images/summary%20of%20top%20python%20repositories.png)
 
-_Visualizing Top repositories using Pygal_
+__Visualizing Top Python Repositories__
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/api/images/most-starred%20Python%20projects%20on%20GitHub.png)
 
-_Refined Pygal Chart_
+__Refined Python Repositories Chart__
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/api/images/refined%20chart%20of%20top%20repos.png)
 
-_Adding Custom Tooltips_
+__Adding Custom Tooltips to Python Repositories__
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/api/images/chart%20with%20custom%20tooltips.png)
