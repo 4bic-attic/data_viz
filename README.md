@@ -17,3 +17,5 @@ On this , I used the GitHub API to explore the most-starred Python projects on G
 
     Adding Custom Tooltips to Python Repositories
 ![alt tag](https://github.com/4bic-attic/data_viz/blob/api/images/chart%20with%20custom%20tooltips.png)
+
+Course work courtesy of [Python Crash Course](https://www.nostarch.com/pythoncrashcourse) by [@ehmatthes](https://github.com/ehmatthes)
